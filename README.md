@@ -1,9 +1,5 @@
 # Tensorflow tf_stack_bidirectional_rnn tutorial
 
-# Tensorflow estimator tutorial
-
-TensorFLow Sequence-to-Sequence Models for Conversation
-
 # compare with simple dynamic rnn
 ## simple_dynamic_rnn
 > ![simple_dynamic_rnn](simple_dynamic_rnn.png)
